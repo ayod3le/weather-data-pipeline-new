@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE and OS specific
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Local data landing zones (if you ever recreate them for testing)
+# raw_data_landing_zone/
+# transformed_data_landing_zone/
